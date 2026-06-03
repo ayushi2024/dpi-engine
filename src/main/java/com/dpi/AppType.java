@@ -1,0 +1,16 @@
+package com.dpi;
+
+public enum AppType {
+UNKNOWN,
+GOOGLE,
+YOUTUBE,
+GITHUB,
+CHATGPT,
+OPENAI,
+NETFLIX,
+TELEGRAM,
+TIKTOK,
+HTTPS,
+HTTP,
+DNS
+}
