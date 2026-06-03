@@ -122,6 +122,12 @@ HTTP    : 4
 DNS     : 2
 GOOGLE  : 1
 
+## Future Enhancements
+Real-time packet capture using Pcap4J
+Web Dashboard
+Machine Learning based traffic classification
+Intrusion Detection Features
+
 ## Key Concepts Demonstrated
 
 - Deep Packet Inspection (DPI)
